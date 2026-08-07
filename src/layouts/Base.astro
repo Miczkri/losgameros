@@ -76,7 +76,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     {canonical && <link rel="canonical" href={canonical} item-prop="url" />}
 
     <!-- noindex robots -->
-    <meta name="robots" content="noindex, nofollow" />
+    {noindex && <meta name="robots" content="noindex,nofollow" />}
 
     <!-- meta-description -->
     <meta
