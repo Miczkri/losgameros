@@ -1,0 +1,33 @@
+{
+  "site": {
+    "title": "losgameros.com | Descargar juegos gratis para PC",
+    "base_url": "https://losgameros.com",
+    "base_path": "/",
+    "trailing_slash": true,
+    "favicon": "/images/favicon.ico"
+  },
+
+  "settings": {
+    "pagination": 9
+  },
+
+  "metadata": {
+    "meta_description": "losgameros.com es la mejor página web para descargar juegos gratis para PC. ¡Todos tus juegos favoritos reunidos en un solo sitio!"
+  },
+
+  "google_tag_manager": {
+    "enable": true,
+    "gtm_id": "GTM-TVVQWX9K"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "© 2026 LosGameros.com. Todas las descripciones de los videojuegos que aparecen en la página web LosGameros.com tienen carácter informativo y de reseña. Los videojuegos son propiedad de sus editores y desarrolladores. Te animamos a apoyar a los creadores comprando los videojuegos a través de los canales oficiales de distribución."
+  },
+
+  "contactinfo": {
+    "address": "Celso Emilio Ferreiro 74 <br/> Sádaba",
+    "email": "contacto@losgameros.com",
+    "phone": "+34 686 758 491"
+  }
+}

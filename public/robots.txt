@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/*
+
+Sitemap: https://losgameros.com/sitemap-index.xml
