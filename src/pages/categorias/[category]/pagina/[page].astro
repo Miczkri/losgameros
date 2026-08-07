@@ -38,12 +38,13 @@ const title = humanize(category || "");
       
       <!-- Wyświetlamy posty wygenerowane dla bieżącej strony -->
       <Posts posts={page.data} fluid={false} />
-
+<div class="mt-12">
       <Pagination
         section={`categorias/${category}`}
         currentPage={page.currentPage}
         totalPages={page.lastPage}
       />
+      </div>
     </div>
   </div>
 </Base>
