@@ -1,10 +1,11 @@
 {
   "site": {
-    "title": "losgameros.com",
+    "title": "LosGameros.com - Descargar juegos gratis",
     "base_url": "https://losgameros.com",
     "base_path": "/",
     "trailing_slash": true,
-    "favicon": "/images/favicon.ico"
+    "favicon": "/images/favicon.ico",
+    "logo_text": "LosGameros"
   },
 
   "settings": {
@@ -12,7 +13,7 @@
   },
 
   "metadata": {
-    "meta_description": "losgameros.com es la mejor página web para descargar juegos gratis para PC. ¡Todos tus juegos favoritos reunidos en un solo sitio!"
+    "meta_description": "LosGameros.com es la mejor página web para descargar juegos gratis para PC. ¡Todos tus juegos favoritos reunidos en un solo sitio!"
   },
 
   "google_tag_manager": {
