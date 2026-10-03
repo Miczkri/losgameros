@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "losgameros.com | Descargar juegos gratis para PC",
+    "title": "losgameros.com",
     "base_url": "https://losgameros.com",
     "base_path": "/",
     "trailing_slash": true,
